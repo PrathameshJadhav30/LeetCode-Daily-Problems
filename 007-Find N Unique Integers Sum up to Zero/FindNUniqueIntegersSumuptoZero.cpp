@@ -28,7 +28,9 @@ int main() {
     Solution sol;
     int n = 5;
     vector<int> ans = sol.sumZero(n);
-    for (int x : ans) cout << x << " ";
+    for (int x : ans){
+      cout << x << " ";
+    } 
     cout << endl;
     return 0;
 }
