@@ -24,7 +24,6 @@ public:
     }
 };
 
-// Driver code (for testing in VS Code)
 int main() {
     Solution sol;
     int n = 5;
